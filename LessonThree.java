@@ -2,7 +2,7 @@ package ru.geekbrains.java;
 
 import java.util.Random;
 import java.util.Scanner;
-
+//задание 3.1
 public class LessonThree {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
